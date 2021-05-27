@@ -1,0 +1,11 @@
+com/xyz/model/SearchResult.java
+ com.xyz.model.SearchResult
+com/xyz/XyzIndexingServiceApplication.java
+ com.xyz.XyzIndexingServiceApplication
+com/xyz/config/StartupEvent.java
+ com.xyz.config.StartupEvent
+ com.xyz.config.StartupEvent$1
+com/xyz/service/SearchService.java
+ com.xyz.service.SearchService
+com/xyz/controller/SearchController.java
+ com.xyz.controller.SearchController

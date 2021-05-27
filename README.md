@@ -1,1 +1,0 @@
-# xyz-indexing-service
